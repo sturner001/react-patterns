@@ -38,4 +38,5 @@ const Accordion = ({ children, className }) => {
 Accordion.Item = AccordionItem
 Accordion.Title = AccordionTitle
 Accordion.Content = AccordionContent
+
 export default Accordion;

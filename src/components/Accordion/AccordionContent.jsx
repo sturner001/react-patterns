@@ -12,7 +12,6 @@ const AccordionContent = ({ className, children }) => {
             {children}
         </div>
     );
-
 }
 
 export default AccordionContent;
